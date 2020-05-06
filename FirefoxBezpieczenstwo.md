@@ -262,6 +262,11 @@ Bezproblemowy sposób na zapisywanie i przywracanie partii zakładek jako zakła
 
 Szybkie tłumaczenie wybranego tekstu na stronie internetowej. W wyskakującym okienku na pasku narzędzi możesz przetłumaczyć wprowadzony tekst. https://addons.mozilla.org/pl/firefox/addon/simple-translate/
 
+### CSS Exfil Protection
+CSS Exfil jest metodą, którą atakujący mogą wykorzystać do kradzieży danych ze stron internetowych za pomocą kaskadowych arkuszy stylów (CSS). Ten plugin odkaża i blokuje wszelkie reguły CSS, które mogą być przeznaczone do kradzieży danych. https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection/
+
+Sprawdź podatność https://www.mike-gualtieri.com/css-exfil-vulnerability-tester
+
 ## Zaawansowane ustawienia
 Znaczną ilość(jeśli nie wszystkie) opcji, które można ustawić poprzez graficzny interfejs użytkownika, można również ustawić w tekstowym panelu konfiguracyjnym przeznaczonym dla zaawansowanych użytkowników.  
 Oto niektóre z ciekawszych opcji, które można zmienić na stronie `about:config` wraz z zalecanymi wartościami:
